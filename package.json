@@ -1,0 +1,21 @@
+{
+    "name": "mocha_unit_tests",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "test": "mocha && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+      "chai": "^5.1.1",
+      "mocha": "^10.4.0"
+    }
+  }
+  
